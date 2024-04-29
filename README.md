@@ -5,7 +5,7 @@
 
 I'm a passionate software developer with a keen interest in building innovative web applications and exploring new technologies. Here's a bit about me:
 
-- 🔭 I’m currently working on honing my skills in React (mainly TypeScript) and Node.js.
+- 🔭 I’m currently working on honing my skills in React, Angular (TypeScript) and Node.js.
 - 🌱 I’m currently learning about machine learning and data science.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about anything related to JavaScript, React, or front-end development!
